@@ -1,2 +1,1 @@
-# git-introduction
-New line here :)
+NEW LINE
